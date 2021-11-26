@@ -1,6 +1,6 @@
 ### Hi there 😄
 
-My name is Jorge, i from of Canary Islands, Spain.
+My name is Jorge, I from of Canary Islands, Spain.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jorgvica.readme.visitor-badge)
 ---
